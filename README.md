@@ -1,4 +1,4 @@
-# ehealth_cocmpetition_team_d
+# ehealth_competition_team_d
 
 # Machine Learning Model for Predicting Vaccination/Immunization Coverage in Nigeria
 
